@@ -127,6 +127,4 @@ evaluation or benchmarking system. No third-party project approval is claimed.
 
 ## License
 
-No open-source license has been selected for this starter. Public source
-visibility, if enabled later, would not by itself grant an open-source license.
-The project owner can select appropriate licensing after reviewing the terms.
+Licensed under the [MIT License](LICENSE).
